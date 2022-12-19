@@ -1,0 +1,24 @@
+=======================
+Nome: Vinicius
+Idade: 20
+CPF: 80843223
+Conjugue: Sim
+=======================
+=======================
+Nome: Nanda
+Idade: 22
+CPF: 85494704
+Conjugue: Não
+=======================
+=======================
+Nome: Google
+Idade: 25
+CNPJ: 987654390
+Sit. Cadastral: Inativo
+=======================
+=======================
+Nome: Hotmart
+Idade: 29
+CNPJ: 1234567892
+Sit. Cadastral: Ativo
+=======================
