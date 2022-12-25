@@ -4,4 +4,4 @@ Primeira funcionalidade: Criar um arquivo binário com x registros de "funcionar
 
 Segunda funcionalidade: Criar um arquivo binário com x registros de "funcionarios" de maneira desordenada por codigo, após isso é possível solicitar apenas uma busca sequencial  por codigos específicos seguido da criação de um relatorio em .txt com as informações do funcionario o número de comparações gastas no processo de localização e um tempo (a variavel tempo precisa de refatoração).
 
-PS: É apenas um material de studos da graduação.
+PS: O arquivo numbs.txt é uma lista desordenada de números de 1 -> 1000 utilizado para criar o arquivo binário com x registros de "funcionarios" de maneira desordenada.
