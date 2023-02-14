@@ -1,1 +1,1 @@
-Este repositorio é referente a um trabalho feito na diciplina Teoria dos Grafos (AEDS III). O PDF tem todas as informações sobre o trabalho, resumidamente, foi desenvolvido na linguagem python um programa que resolve labirintos escritos em arquivos txt.
+Este repositório é referente a um trabalho feito na diciplina Teoria dos Grafos (AEDS III). O PDF "Projeto.pdf" contem todas as informações sobre o trabalho. Resumidamente, foi desenvolvido na linguagem python um programa que resolve labirintos retangulares escritos em arquivos txt.
