@@ -1,4 +1,4 @@
-Este repositório é referente a um trabalho feito na diciplina Teoria dos Grafos. O PDF "Projeto.pdf" contem todas as informações sobre o trabalho.
+Este repositório é referente a um trabalho feito na diciplina Teoria dos Grafos. O PDF "Trabalho.pdf" contem todas as informações sobre o trabalho.
 
 Resumidamente, foi desenvolvido na linguagem python um programa que resolve labirintos retangulares escritos em arquivos txt.
 
