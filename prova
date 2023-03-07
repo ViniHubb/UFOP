@@ -1,0 +1,42 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int trocatroca(char* string){
+    int jotas=0;
+    for (int i=0; string[i]!='\0';i++){
+        if(string[i] == 'G'){
+            string[i] = 'Y';
+        }
+        else if(string[i] == 'K'){
+            string[i] = 'L';
+        }
+        else if(string[i] == 'N'){
+            string[i] = 'Z';
+        }
+        else if(string[i] == 'J'){
+            jotas++;
+        }
+    }
+    return jotas;
+}
+
+int main()
+{
+    int n, jota;
+    printf("Digite o tamanho da string!\n");
+    __fpurge(stdin);
+    scanf("%c", &n);
+
+    printf("Digite a string!\n");
+    char string[n];
+    //fflush(stdin);
+    __fpurge(stdin);
+    scanf("%s", &string);
+    jota = trocatroca(&string);
+    printf("Palavra trocada: %s\n", string);
+    printf("Numero de Joatas: %c\n", jota);
+
+
+    return 0;
+}
