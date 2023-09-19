@@ -1,0 +1,21 @@
+Lista referente ao terceiro modulo
+
+Exercício 1:
+A partir de um vetor de números de 10 posições, encontre o maior e o menor
+número.
+
+Exercício 2:
+A partir de um vetor de números de 10 posições, encontre a média dos
+números pares presentes no vetor.
+
+Exercício 3:
+Dadas as temperaturas que foram registradas diariamente durante uma
+semana, deseja-se determinar em quantos dias dessa semana a temperatura
+esteve acima da média. Crie um vetor de temperatura e exiba o resultado.
+
+Exercício 4:
+Crie um vetor de 50 posições com números aleatórios inteiros, antes da
+inserção verifique se o valor já está presente no vetor, caso não esteja o
+número será inserido no vetor. Imprima no final quantas vezes não foi possível
+inserir números no vetor e todos os números ímpares presente no vetor e o
+somatório de todos os números presente no vetor de números impares.

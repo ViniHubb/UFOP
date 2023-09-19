@@ -1,0 +1,31 @@
+Lista referente ao quarto modulo de Funções
+
+Exercício 1
+Crie uma função que converta o valor de uma determinada moeda para real, 
+esta função receberá como parâmetros o valor a ser convertido, a moeda de 
+origem, retorne o valor convertido.
+Exemplos de taxas
+USD: 5.35, // 1 USD = 5.35 BRL
+EUR: 6.38, // 1 EUR = 6.38 BRL
+ARS: 0.056 // 1 ARS = 0.056 BRL
+
+Exercício 2
+Desenvolva uma função que receba um vetor de números como parâmetro e 
+retorne um novo vetor apenas com os números positivos.
+
+Exercício 3
+Desenvolva uma função que receba um CPF por parâmetro e verifique se o 
+CPF e valido. Algumas regras devem ser seguidas para realizar a validação. 
+. Se o comprimento do CPF for maior do que 11 ou menor do que 11, a função 
+deve retornar false.
+. Se o CPF consistir em uma sequência de números idênticos, por exemplo, 
+'11111111111', a função deve retornar false.
+. Se o CPF seguir as regras de comprimento e não for uma sequência de 
+números iguais, a função deve retornar true, indicando que o CPF é válido.
+Dica: CPF e uma String
+
+Exercício 4
+Desenvolva uma função que receba um vetor de nomes e uma letra como 
+parâmetro, e retorne um novo vetor contendo apenas os nomes que contenha 
+essa letra específica.
+Dica: use o método includes do vetor.

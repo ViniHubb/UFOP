@@ -1,0 +1,17 @@
+Lista referente ao primeiro modulo
+
+Exercício 1:
+A partir do valor 20 em metros, imprima o valor correspondente em decímetros, 
+centímetros e milímetros.
+
+Exercício 2: 
+A partir de um número aleatório de 0 a 100, imprima o seu sucessor e 
+antecessor.
+
+Exercício 3:
+Calcule a área de um quadrado que possui lados medindo 6 cm e exiba o 
+resultado.
+
+Exercício 4: 
+Converta 30 graus em Celsius para Fahrenheit, e exiba o resultado.
+Dica: Fahrenheit = Celsius x 1,8 + 32.

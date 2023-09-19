@@ -1,0 +1,40 @@
+Lista referente ao segundo modulo 
+
+Exercício 1:
+Faça um código que a partir um número, exiba o dia correspondente da 
+semana. (1-Domingo, 2- Segunda, etc..), se outro valor for informado deve 
+aparecer valor inválido.
+
+Exercício 2:
+A partir da idade de uma pessoa e informe a sua classe eleitoral:
+- não eleitor (abaixo de 16 anos);
+- eleitor obrigatório (entre a faixa de 18 e menor de 65 anos);
+- eleitor facultativo (de 16 até 18 anos e maior de 65 anos, inclusive)
+
+Exercício 3:
+Calcule o IMC e exiba o resultado a partir da tabela abaixo.
+Tabela de classificação do IMC.
+. IMC menor que 18,5 : Abaixo do peso 
+. IMC entre 18,5 e 24,9 : Peso normal
+. IMC entre 25 e 29,9 : Sobrepeso 
+. IMC entre 30 e 34,9 : Obesidade grau 1 
+. IMC entre 35 e 39.9 : Obesidade grau 2
+. IMC maior ou igual a 40: Obesidade grau 3
+Dica: IMC = peso / altura * altura
+
+Exercício 4:
+Faça um código que a partir do salário de um colaborador faça o reajuste 
+segundo o critério abaixo, baseado no salário atual:
+salários até R$ 280,00 (incluindo) : aumento de 20%
+salários entre R$ 280,00 e R$ 700,00 : aumento de 15%
+salários entre R$ 700,00 e R$ 1500,00 : aumento de 10%
+salários de R$ 1500,00 em diante : aumento de 5%.
+Após o aumento ser realizado, informe na tela:
+o salário antes do reajuste;
+o valor do aumento;
+o novo salário, após o aumento.
+Dica: 
+0.15 = 15%
+0.20 = 20%
+0.10 = 10%
+0.05 = 5%

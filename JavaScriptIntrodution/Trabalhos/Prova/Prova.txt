@@ -1,0 +1,34 @@
+Prova PID – Javascript
+
+Exercício 1
+Crie uma classe chamada Produto com os seguintes atributos:
+código, nome, preço, quantidadeEmEstoque. 
+A classe Produto deve conter os seguintes métodos.
+comprarProduto(quantidade) que permite ao cliente comprar uma quantidade 
+específica de um produto. O método deve realizar as seguintes ações:
+Verificar se a quantidade desejada está disponível em estoque. Para isso, 
+compare a quantidade desejada para compra com a quantidade em estoque do 
+produto.
+Se a quantidade desejada estiver disponível em estoque, calcule o preço total 
+da compra multiplicando o preço unitário pelo número de unidades desejadas 
+Reduza a quantidade em estoque pelo valor da quantidade comprada.
+Retorne o preço total da compra.
+Se a quantidade desejada não estiver disponível em estoque, exiba uma 
+mensagem de erro informando que o produto não está disponível em 
+quantidade suficiente para a compra e retorne 0 como preço total.
+exibirInformacoes(): Este método deve exibir as informações do produto, 
+incluindo o código, o nome, o preço unitário e o estoque.
+
+Exercício 2
+Crie um array com objetos instanciados da classe Produto e encontre.
+. Os dados do produto com maior preço
+Dica: Encontre o maior preço, depois encontre o produto com o preço 
+equivalente.
+. A quantidade total em estoque de todos os produtos
+
+Exercício 3
+Crie uma função que receba como parâmetros um array de produtos, o 
+nome de um produto específico e o preço. A função deve buscar o produto com 
+o nome e o preço fornecido no array e retornar todas as informações desse 
+produto, incluindo código, nome, preço, quantidade em estoque. Caso não 
+encontre, retorne ‘Produto não cadastrado’.
